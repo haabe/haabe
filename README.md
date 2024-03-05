@@ -1,4 +1,8 @@
-### Hi there 👋
+### Currently compiling ... 🤖
+
+![My Thug Dog](https://github.com/haabe/haabe/blob/main/20231024_172236-min.jpg "My Thug Dog")
+
+
 
 <!--
 **haabe/haabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
