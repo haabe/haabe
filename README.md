@@ -1,6 +1,6 @@
 ### Currently compiling ... 🤖
 
-![My Thug Dog](https://github.com/haabe/haabe/blob/main/20231024_172236-min.jpg "My Thug Dog")
+![My Thug Dog](https://github.com/haabe/haabe/blob/main/dwi.png "My Thug Dog")
 
 
 
