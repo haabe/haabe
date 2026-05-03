@@ -6,7 +6,7 @@ I build platform tooling for AI-assisted product development. The problem Myceli
 
 **Active projects**
 
-- [**Mycelium**](https://github.com/haabe/mycelium). Product-development harness for Claude Code: 38 skills, 12 theory gates, fractal diamonds. MIT. ⭐ 19.
+- [**Mycelium**](https://github.com/haabe/mycelium). Product-development harness for Claude Code: 38 skills, 12 theory gates, fractal diamonds. MIT. ⭐ 23.
 - [**ux-axioms-mcp**](https://github.com/haabe/ux-axioms-mcp). An MCP server exposing UX axioms as first-class tools and resources for AI clients. Apache-2.0.
 - [**ntrax**](https://beta.ntrax.eu) (source private, public [issue tracker](https://github.com/haabe/nTrax.eu)). A browser-based modular music tracker. Mod-tracker precision meets modular-synth flexibility. Early beta.
 
